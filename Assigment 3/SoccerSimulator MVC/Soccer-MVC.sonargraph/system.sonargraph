@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<ns2:softwareSystem xmlns:ns2="http://www.hello2morrow.com/sonargraph/core" id="14f11d20098cdbbb0a19ae65a393a018" version="10.0.0.618">
+	<description></description>
+	<module xmlns:ns4="http://www.hello2morrow.com/sonargraph/languageprovider/java" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns4:xsdJavaModule" name="SoccerSimulator" id="28791837e14cf5e6f73323b94a14c5d8" language="Java">
+		<description></description>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="./src"></rootPath>
+		<rootPath name="./out/production/SoccerSimulator"></rootPath>
+	</module>
+</ns2:softwareSystem>
